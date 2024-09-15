@@ -7,8 +7,8 @@ This project focuses on the analysis and prediction of car prices between 2014 a
 2. Methodology
 - Data Cleaning
 - Exploratory Data Analysis
--- Models Implemented
--- Features Preprocessing
+  -  Models Implemented
+  - Features Preprocessing
 3. Predictive Modeling Techniques
 - Models Implemented
 - Modeling Results
