@@ -5,13 +5,14 @@ This project focuses on the analysis and prediction of car prices between 2014 a
 ## Table of Contents
 1. Introduction
 2. Methodology
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1. Data Cleaning
-  2.2. Exploratory Data Analysis
-  2.3.1. Models Implemented
-  2.3.2. Features Preprocessing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2. Exploratory Data Analysis
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.1. Models Implemented
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.2. Features Preprocessing
 3. Predictive Modeling Techniques
-  3.1. Models Implemented
-  3.2. Modeling Results
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1. Models Implemented
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2. Modeling Results
 4. Results
 5. Conclusions
 6. Future Work
